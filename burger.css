@@ -1,0 +1,51 @@
+.imgOptions{
+    width: 250px;
+    height: 190px;
+}
+.bun_choices{
+    display: none;
+}
+.bun_choices.active{
+    display: block;
+}
+.sauce_choices{
+    display: none;
+}
+.sauce_choices.active{
+    display: block;
+}
+.spicy_choices{
+    display: none;
+}
+.spicy_choices.active{
+    display: block;
+}
+.addon_choices{
+    display: none;
+}
+.addon_choices.active{
+    display: block;
+}
+#next1{
+        width: 100px;
+    text-align: center;
+    margin: 0 auto;
+}
+#next2{
+    width: 100px;
+    text-align: center;
+    margin: 0 auto;
+}
+#next3{
+    width: 100px;
+    text-align: center;
+    margin: 0 auto;
+}
+#next4{
+    width: 100px;
+    text-align: center;
+    margin: 0 auto;
+}
+label {
+    cursor: pointer;
+}
